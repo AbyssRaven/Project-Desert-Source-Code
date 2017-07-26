@@ -1,0 +1,78 @@
+{
+  "Nile": {
+    "Name": "Nile",
+    "FoodGain": "10",
+    "WoodGain": "0",
+    "StoneGain": "0",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+
+  "Palm Forest": {
+    "Name": "Palm Forest",
+    "FoodGain": "0",
+    "WoodGain": "10",
+    "StoneGain": "0",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+
+  "Stone Pit": {
+    "Name": "Stone Pit",
+    "FoodGain": "0",
+    "WoodGain": "0",
+    "StoneGain": "10",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+
+  "Dates Forest": {
+    "Name": "Dates Forest",
+    "FoodGain": "7",
+    "WoodGain": "7",
+    "StoneGain": "0",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+  
+    "Green Hill": {
+    "Name": "Green Hill",
+    "FoodGain": "0",
+    "WoodGain": "7",
+    "StoneGain": "7",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+  
+    "Goats on the Rocks": {
+    "Name": "Goats on the Rocks",
+    "FoodGain": "7",
+    "WoodGain": "0",
+    "StoneGain": "7",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": false
+  },
+  
+    "Desert": {
+    "Name": "Desert",
+    "FoodGain": "0",
+    "WoodGain": "0",
+    "StoneGain": "0",
+    "ImagePathName": "null",
+    "ImagePathArtwork": "null",
+    "ImagePathDescription": "null",
+    "SupportGrandBuilding": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Build Khufu Pyramid": {
+    "WinCondition": "0",
+    "StartingFood": "50",
+    "StartingWood": "50",
+    "StartingStone": "50",
+    "GoalTimeLimit": "60",
+    "GoalTimeInterval": "10"
+  }
+}
